@@ -1,0 +1,11 @@
+.navbar-custom {
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  .banner{
+    padding: 8rem;
+    background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
